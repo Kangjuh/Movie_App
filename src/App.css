@@ -1,0 +1,6 @@
+/* App.css */
+/* body{background: #2f2f2f;} */
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+KR:wght@400;500;700&family=Noto+Sans:wght@400;700&family=Roboto&display=swap');
+*{margin: 0;padding: 0;box-sizing: border-box;}
+body{font-family: 'Roboto', sans-serif;
+    background: #eff3f7;height: 100%;}
